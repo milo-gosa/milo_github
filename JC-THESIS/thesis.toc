@@ -1,0 +1,30 @@
+\select@language {english}
+\select@language {english}
+\contentsline {chapter}{Heliosismolog\'ia}{4}{chapter*.2}
+\contentsline {section}{Heliosismolog\'ia local}{4}{section*.3}
+\contentsline {subsection}{Diagrama de anillos}{5}{section*.5}
+\contentsline {subsection}{Diagrama de Tiempo-Distancia}{6}{section*.7}
+\contentsline {section}{Holograf\'ia heliosismol\'ogica}{10}{section*.10}
+\contentsline {subsection}{Proyecci\'on Postel}{13}{section*.14}
+\contentsline {section}{Sismicidad asociada a las fulguraciones solares}{14}{section*.16}
+\contentsline {section}{M\'etodo de limpieza de observaciones hechas desde tierra}{17}{section*.18}
+\contentsline {subsection}{Algoritmo param\'etrico de correci\'on por turbulencia (PASCAL)}{18}{section*.19}
+\contentsline {subsection}{Algoritmo num\'erico para el c\'alculo del laplaciano de una funci\'on bidimensional}{19}{section*.21}
+\contentsline {subsection}{Proyecciones heliogr\'afica y postel aplicadas a un fotograma solar}{26}{section*.30}
+\contentsline {section}{Implementaci\'on del m\'etodo PASCAL sobre una muestra de fulguraciones energ\'eticas}{29}{section*.33}
+\contentsline {chapter}{Aceleraci\'on estoc\'astica de part\'iculas en una fulguraci\'on solar}{33}{chapter*.35}
+\contentsline {section}{Ecuaci\'on de Fokker-Planck}{34}{section*.37}
+\contentsline {subsection}{Un primer acercamiento: la ecuaci\'on de Langevin}{35}{section*.38}
+\contentsline {subsection}{Deducci\'on de la ecuaci\'on de Fokker-Planck unidimensional}{36}{section*.39}
+\contentsline {subsection}{Ecuaci\'on de Fokker-Planck Multi-dimensional}{40}{section*.41}
+\contentsline {subsection}{Din\'amica de un paquete de electrones que se inyecta en un plasma magnetizado}{42}{section*.42}
+\contentsline {section}{Procesos relevantes involucrados en las colisiones en plasmas}{44}{section*.46}
+\contentsline {subsection}{Colisi\'on Coulombiana}{44}{section*.47}
+\contentsline {subsection}{Radiaci\'on giro-sincrotr\'on}{47}{section*.49}
+\contentsline {subsection}{Reflexi\'on magn\'etica}{49}{section*.51}
+\contentsline {section}{Simulaci\'on}{53}{section*.52}
+\contentsline {subsection}{Soluci\'on num\'erica de la Ecuaci\'on de Fokker-Planck dependiente del tiempo}{53}{section*.53}
+\contentsline {subsubsection}{M\'etodo de diferencias finitas}{54}{section*.54}
+\contentsline {subsection}{C\'odigo num\'erico}{57}{section*.58}
+\contentsline {subsubsection}{Consideraciones iniciales de la simulaci\'on}{57}{section*.59}
+\contentsline {subsection}{Par\'ametros de entrada del conjunto de programas}{60}{section*.63}

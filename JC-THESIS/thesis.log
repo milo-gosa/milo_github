@@ -1,0 +1,1818 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2010.7.13)  2 APR 2013 11:08
+entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**thesis.tex
+(./thesis.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, german-x-2009-06-19, ngerman-x-2009-06-19, ancientgreek, ibycus, ar
+abic, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutc
+h, esperanto, estonian, farsi, finnish, french, galician, german, ngerman, mono
+greek, greek, hungarian, icelandic, assamese, bengali, gujarati, hindi, kannada
+, malayalam, marathi, oriya, panjabi, tamil, telugu, indonesian, interlingua, i
+rish, italian, kurmanji, latin, latvian, lithuanian, mongolian, mongolianlmc, b
+okmal, nynorsk, polish, portuguese, romanian, russian, sanskrit, serbian, slova
+k, slovenian, spanish, swedish, turkish, turkmen, ukenglish, ukrainian, upperso
+rbian, welsh, loaded.
+(/usr/local/texlive/2009/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2009/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./paquetes.tex (/usr/local/texlive/2009/texmf-dist/tex/latex/geometry/geomet
+ry.sty
+Package: geometry 2010/03/13 v5.3 Page Geometry
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2010/01/28 v2.1 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+(/usr/local/texlive/2009/texmf-dist/tex/xelatex/xetexconfig/geometry.cfg))
+(/usr/local/texlive/2009/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2009/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen111
+))
+(/usr/local/texlive/2009/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen112
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen113
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks17
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks18
+\eqnshift@=\dimen114
+\alignsep@=\dimen115
+\tagshift@=\dimen116
+\tagwidth@=\dimen117
+\totwidth@=\dimen118
+\lineht@=\dimen119
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(/usr/local/texlive/2009/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip46
+\f@ncyO@elh=\skip47
+\f@ncyO@erh=\skip48
+\f@ncyO@olh=\skip49
+\f@ncyO@orh=\skip50
+\f@ncyO@elf=\skip51
+\f@ncyO@erf=\skip52
+\f@ncyO@olf=\skip53
+\f@ncyO@orf=\skip54
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen120
+\Gin@req@width=\dimen121
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen122
+\WF@size=\dimen123
+\c@WF@wrappedlines=\count103
+\WF@box=\box28
+\WF@everypar=\toks21
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/txfonts/txfonts.sty
+Package: txfonts 2008/01/22 v3.2.1
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/txr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/txr/m/n --> OT1/txr/bx/n on input line 22.
+\symitalic=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `italic' in version `bold'
+(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 26.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/bx/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/bx/n on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/txr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/txr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 31.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/txss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/txss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/txss/m/n --> OT1/txss/b/n on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/txtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/txtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/txtt/m/n --> OT1/txtt/b/n on input line 51.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/txmi/m/it --> OML/txmi/bx/it on input line 59.
+\symlettersA=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/txmia/m/it --> U/txmia/bx/it on input line 67.
+LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 70.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/txsy/m/n --> OMS/txsy/bx/n on input line 78.
+LaTeX Font Info:    Redeclaring symbol font `AMSa' on input line 93.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `normal'
+(Font)                  U/msa/m/n --> U/txsya/m/n on input line 93.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/msa/m/n --> U/txsya/m/n on input line 93.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/txsya/m/n --> U/txsya/bx/n on input line 94.
+LaTeX Font Info:    Redeclaring symbol font `AMSb' on input line 102.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `normal'
+(Font)                  U/msb/m/n --> U/txsyb/m/n on input line 102.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/msb/m/n --> U/txsyb/m/n on input line 102.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/txsyb/m/n --> U/txsyb/bx/n on input line 103.
+\symsymbolsC=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/txsyc/m/n --> U/txsyc/bx/n on input line 113.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/txex/m/n --> OMX/txex/bx/n on input line 121.
+\symlargesymbolsA=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `largesymbolsA' in version `bold'
+(Font)                  U/txexa/m/n --> U/txexa/bx/n on input line 129.
+LaTeX Info: Redefining \not on input line 1043.
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2009/11/07 8.31a (PWD, AO)
+\bibhang=\skip55
+\bibsep=\skip56
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count104
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/doublestroke/dsfont.sty
+Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen124
+\epsfysize=\dimen125
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2008/12/05 v1.6h multicolumn formatting (FMi)
+\c@tracingmulticols=\count105
+\mult@box=\box29
+\multicol@leftmargin=\dimen126
+\c@unbalance=\count106
+\c@collectmore=\count107
+\doublecol@number=\count108
+\multicoltolerance=\count109
+\multicolpretolerance=\count110
+\full@width=\dimen127
+\page@free=\dimen128
+\premulticols=\dimen129
+\postmulticols=\dimen130
+\multicolsep=\skip57
+\multicolbaselineskip=\skip58
+\partial@page=\box30
+\last@line=\box31
+\mult@rightbox=\box32
+\mult@grightbox=\box33
+\mult@gfirstbox=\box34
+\mult@firstbox=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\c@columnbadness=\count111
+\c@finalcolumnbadness=\count112
+\last@try=\dimen131
+\multicolovershoot=\dimen132
+\multicolundershoot=\dimen133
+\mult@nat@firstbox=\box53
+\colbreak@box=\box54
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count113
+\float@exts=\toks22
+\float@box=\box55
+\@float@everytoks=\toks23
+\@floatcapt=\box56
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2001/05/28 v1.06 decimal alignment package (DPC)
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen134
+\extrarowheight=\dimen135
+\NC@list=\toks24
+\extratabsurround=\skip59
+\backup@length=\skip60
+))
+(/usr/local/texlive/2009/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/local/texlive/2009/texmf-dist/tex/generic/babel/spanish.ldf
+Language: spanish.ldf 2009/01/02 v5.0h Spanish support from the babel system
+
+(/usr/local/texlive/2009/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count114
+\U@D=\dimen136
+)
+\es@datefmt=\count115
+\es@quottoks=\toks25
+\es@quotdepth=\count116
+Package babel Info: Making " an active character on input line 492.
+Package babel Info: Making . an active character on input line 585.
+Package babel Info: Making < an active character on input line 630.
+Package babel Info: Making > an active character on input line 630.
+)
+(/usr/local/texlive/2009/texmf-dist/tex/generic/babel/english.ldf
+Language: english 2005/03/30 v3.3o English support from the babel system
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/local/texlive/2009/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 311.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 312.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 313.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 314.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 315.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 316.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 317.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 318.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 319.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 320.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 321.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 322.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 323.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 324.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 326.
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2010/01/09 v3.1m Customizing captions (AR)
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2010/01/14 v3.1m caption3 kernel (AR)
+\captionmargin=\dimen137
+\captionmargin@=\dimen138
+\captionwidth=\dimen139
+\caption@indent=\dimen140
+\caption@parindent=\dimen141
+\caption@hangindent=\dimen142
+)
+\c@ContinuedFloat=\count117
+Package caption Info: float package is loaded.
+Package caption Info: wrapfig package is loaded.
+)
+\c@KVtest=\count118
+\sf@farskip=\skip61
+\sf@captopadj=\dimen143
+\sf@capskip=\skip62
+\sf@nearskip=\skip63
+\c@subfigure=\count119
+\c@subfigure@save=\count120
+\c@lofdepth=\count121
+\c@subtable=\count122
+\c@subtable@save=\count123
+\c@lotdepth=\count124
+\sf@top=\skip64
+\sf@bottom=\skip65
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks26
+\inpenc@posthook=\toks27
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2008/03/30 v1.1d Input encoding file
+))
+(/usr/local/texlive/2009/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/02/14 v0.04n Graphics/color for pdfTeX
+\Gread@gobject=\count125
+))
+(/usr/local/texlive/2009/texmf-dist/tex/latex/sidecap/sidecap.sty
+Package: sidecap 2003/06/06 v1.6f SideCap Package (RN/HjG)
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\SC@BOXWD=\dimen144
+\SC@CAPWD=\dimen145
+\SC@tempdima=\dimen146
+\SC@tempdimb=\dimen147
+\c@SC@C=\count126
+\SC@BOX=\box57
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen148
+\lightrulewidth=\dimen149
+\cmidrulewidth=\dimen150
+\belowrulesep=\dimen151
+\belowbottomsep=\dimen152
+\aboverulesep=\dimen153
+\abovetopsep=\dimen154
+\cmidrulesep=\dimen155
+\cmidrulekern=\dimen156
+\defaultaddspace=\dimen157
+\@cmidla=\count127
+\@cmidlb=\count128
+\@aboverulesep=\dimen158
+\@belowrulesep=\dimen159
+\@thisruleclass=\count129
+\@lastruleclass=\count130
+\@thisrulewidth=\dimen160
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2010/05/04 v6.81a Hypertext links for LaTeX
+
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2010/04/26 v1.7 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2010/03/01 v1.9 Key value parser (HO)
+
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2010/01/28 v1.3 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/pdfescape.sty
+Package: pdfescape 2010/03/01 v1.9 Provides hex, PDF name and string conversion
+s (HO)
+
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2010/04/01 v0.9 Utility functions of pdfTeX for LuaTeX (HO)
+
+
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+))
+(/usr/local/texlive/2009/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/oberdiek/hycolor.sty
+Package: hycolor 2009/12/12 v1.6 Color options of hyperref/bookmark (HO)
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/oberdiek/xcolor-patch.sty
+Package: xcolor-patch 2009/12/12 xcolor patch
+))
+(/usr/local/texlive/2009/texmf-dist/tex/latex/oberdiek/letltxmacro.sty
+Package: letltxmacro 2008/06/24 v1.3 Let assignment for LaTeX macros (HO)
+)
+\@linkdim=\dimen161
+\Hy@linkcounter=\count131
+\Hy@pagecounter=\count132
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2010/05/04 v6.81a Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/intcalc.sty
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2010/02/22 v3.7 Keyval support for LaTeX options (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 3639.
+Package hyperref Info: Link nesting OFF on input line 3644.
+Package hyperref Info: Hyper index ON on input line 3647.
+Package hyperref Info: Plain pages OFF on input line 3654.
+Package hyperref Info: Backreferencing OFF on input line 3659.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 3855.
+(/usr/local/texlive/2009/texmf-dist/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4140.
+
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/bitset.sty
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/bigintcalc.sty
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+))
+\Fld@menulength=\count133
+\Field@Width=\dimen162
+\Fld@charsize=\dimen163
+\Field@toks=\toks28
+Package hyperref Info: Hyper figures OFF on input line 5118.
+Package hyperref Info: Link nesting OFF on input line 5123.
+Package hyperref Info: Hyper index ON on input line 5126.
+Package hyperref Info: backreferencing OFF on input line 5133.
+Package hyperref Info: Link coloring OFF on input line 5138.
+Package hyperref Info: Link coloring with OCG OFF on input line 5143.
+Package hyperref Info: PDF/A mode OFF on input line 5148.
+LaTeX Info: Redefining \ref on input line 5188.
+LaTeX Info: Redefining \pageref on input line 5192.
+
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2010/03/25 v1.12 At begin shipout hook (HO)
+)
+\Hy@abspage=\count134
+\c@Item=\count135
+\c@Hfootnote=\count136
+)
+* hyperref using default driver hpdftex *
+(/usr/local/texlive/2009/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2010/05/04 v6.81a Hyperref driver for pdfTeX
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/oberdiek/atveryend.sty
+Package: atveryend 2010/03/24 v1.5 Hooks at very end of document (HO)
+Package atveryend Info: \enddocument detected (standard).
+)
+\Fld@listcount=\count137
+\c@bookmark@seq@number=\count138
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2010/03/16 v1.6 Rerun checks for auxiliary files (HO)
+
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/uniquecounter.sty
+Package: uniquecounter 2009/12/18 v1.1 Provides unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+71.
+)
+\Hy@SectionHShift=\skip66
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/babelbib/babelbib.sty
+Package: babelbib 2009/10/10 v1.29 babelbib: multilingual bibliographies (HH)
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/babelbib/spanish.bdf
+File: spanish.bdf 2009/10/10 v1.29 babelbib: multilingual bibliographies (HH)
+))
+
+Package babelbib Warning: Command \selectbiblanguage used without package
+(babelbib)                option fixlanguage. Ignored on input line 42.
+
+) (./thesis.aux
+
+LaTeX Warning: Label `fig:rotdiff' multiply defined.
+
+
+LaTeX Warning: Label `fig:td' multiply defined.
+
+
+LaTeX Warning: Label `eq:lapmod' multiply defined.
+
+)
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 13.
+LaTeX Font Info:    Try loading font information for OML+txmi on input line 13.
+
+ (/usr/local/texlive/2009/texmf-dist/tex/latex/txfonts/omltxmi.fd
+File: omltxmi.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 13.
+LaTeX Font Info:    Try loading font information for OMS+txsy on input line 13.
+
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/txfonts/omstxsy.fd
+File: omstxsy.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 13.
+LaTeX Font Info:    Try loading font information for OMX+txex on input line 13.
+
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/txfonts/omxtxex.fd
+File: omxtxex.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 13.
+LaTeX Font Info:    Try loading font information for U+txexa on input line 13.
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/txfonts/utxexa.fd
+File: utxexa.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 13.
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Try loading font information for OT1+txr on input line 13.
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/txfonts/ot1txr.fd
+File: ot1txr.fd 2000/12/15 v3.1
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: 614.295pt, 794.96999pt (class default)
+* layout: 614.295pt, 794.96999pt
+* switch(es): 
+* h-part:(L,W,R)=(42.67912pt, 528.93675pt, 42.67912pt)
+* v-part:(T,H,B)=(85.35826pt, 666.9326pt, 42.67912pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=526.37598pt
+* \textheight=660.10384pt
+* \oddsidemargin=-28.45274pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-42.67912pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption3 Info: subfig package 1.2 or 1.3 is loaded.
+LaTeX Info: Redefining \subref on input line 13.
+Package caption Info: hyperref package is loaded.
+Package caption Info: sidecap package is loaded.
+Package caption Info: End \AtBeginDocument code.
+(/usr/local/texlive/2009/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count139
+\scratchdimen=\dimen164
+\scratchbox=\box58
+\nofMPsegments=\count140
+\nofMParguments=\count141
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count142
+\MPscratchDim=\dimen165
+\MPnumerator=\count143
+\everyMPtoPDFconversion=\toks30
+) (/usr/local/texlive/2009/texmf-dist/tex/latex/ms/ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2009/05/30 v1.1 EverySelectfont Package (MS)
+LaTeX Info: Redefining \selectfont on input line 117.
+)
+\CenteringLeftskip=\skip67
+\RaggedLeftLeftskip=\skip68
+\RaggedRightLeftskip=\skip69
+\CenteringRightskip=\skip70
+\RaggedLeftRightskip=\skip71
+\RaggedRightRightskip=\skip72
+\CenteringParfillskip=\skip73
+\RaggedLeftParfillskip=\skip74
+\RaggedRightParfillskip=\skip75
+\JustifyingParfillskip=\skip76
+\CenteringParindent=\skip77
+\RaggedLeftParindent=\skip78
+\RaggedRightParindent=\skip79
+\JustifyingParindent=\skip80
+)
+\AtBeginShipoutBox=\box59
+Package hyperref Info: Link coloring OFF on input line 13.
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/oberdiek/refcount.sty
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+)
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2009/12/18 v1.3 Cleanup title references (HO)
+)
+\c@section@level=\count144
+)
+LaTeX Info: Redefining \ref on input line 13.
+LaTeX Info: Redefining \pageref on input line 13.
+LaTeX Info: Redefining \nameref on input line 13.
+
+(./thesis.out) (./thesis.out)
+\@outlinefile=\write3
+\openout3 = `thesis.out'.
+
+
+babelbib extension \bibsspanish added to \extrasspanish
+babelbib extension \btxifchangecaseoff added to \extrasspanish
+babelbib: Use citation-dependent languages in bibliography
+babelbib: Set bibliography fall-back language to english
+(/usr/local/texlive/2009/texmf-dist/tex/latex/babelbib/english.bdf
+File: english.bdf 2009/10/10 v1.29 babelbib: multilingual bibliographies (HH)
+
+babelbib extension \bibsenglish added to \extrasenglish
+babelbib extension \btxifchangecaseon added to \extrasenglish
+) (./caratula.tex <imagenes/escudo.jpg, id=107, 192.72pt x 255.354pt>
+File: imagenes/escudo.jpg Graphic file (type jpg)
+
+<use imagenes/escudo.jpg>
+LaTeX Font Info:    Try loading font information for OT1+txss on input line 6.
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/txfonts/ot1txss.fd
+File: ot1txss.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
+(Font)              scaled to size 13.67995pt on input line 6.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 11.
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+)
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 13--14
+[][][][] 
+ []
+
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 21--22
+[][][]
+ []
+
+[1
+
+{/usr/local/texlive/2009/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./image
+nes/escudo.jpg>] <imagenes/un.jpg, id=116, 451.6875pt x 598.235pt>
+File: imagenes/un.jpg Graphic file (type jpg)
+
+<use imagenes/un.jpg>
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 44--46
+[][][]
+ []
+
+<imagenes/gosa.png, id=117, 476.78125pt x 476.78125pt>
+File: imagenes/gosa.png Graphic file (type png)
+ <use imagenes/gosa.png>
+[2
+
+ <./imagenes/un.jpg> <./imagenes/gosa.png>]
+Underfull \hbox (badness 1067) in paragraph at lines 74--77
+\OT1/txr/m/n/10 de grado nece-sar-ios para obtener el t[]^^Ptulo de Mag-is-ter 
+en
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--77
+
+ []
+
+LaTeX Font Info:    Try loading font information for U+txsya on input line 77.
+(/usr/local/texlive/2009/texmf-dist/tex/latex/txfonts/utxsya.fd
+File: utxsya.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Try loading font information for U+txsyb on input line 77.
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/txfonts/utxsyb.fd
+File: utxsyb.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Try loading font information for U+txmia on input line 77.
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/txfonts/utxmia.fd
+File: utxmia.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Try loading font information for U+txsyc on input line 77.
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/txfonts/utxsyc.fd
+File: utxsyc.fd 2000/12/15 v3.1
+)
+<imagenes/oan.png, id=125, 472.76625pt x 529.98pt>
+File: imagenes/oan.png Graphic file (type png)
+ <use imagenes/oan.png>
+[3 <./imagenes/oan.png (PNG copy)>] (./thesis.toc)
+\tf@toc=\write4
+\openout4 = `thesis.toc'.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.98 \newpage
+              [3
+
+
+]) (./heliosismologia.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+<Tachocline.png, id=160, 367.3725pt x 361.35pt>
+File: Tachocline.png Graphic file (type png)
+ <use Tachocline.png>
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+[4
+
+ <./Tachocline.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+<ringdiagram.png, id=210, 1088.065pt x 290.08376pt>
+File: ringdiagram.png Graphic file (type png)
+ <use ringdiagram.png>
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+[6 <./ringdiagram.png (PNG copy)>]
+<td_plot_2011_02_15.png, id=232, 987.69pt x 389.2944pt>
+File: td_plot_2011_02_15.png Graphic file (type png)
+
+<use td_plot_2011_02_15.png>
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+[7 <./td_plot_2011_02_15.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+
+ []
+
+<td.png, id=254, 461.725pt x 411.5375pt>
+File: td.png Graphic file (type png)
+ <use td.png>
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
+[8 <./td.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+
+ []
+
+[9] <helioholography.jpg, id=334, 426.59375pt x 382.42876pt>
+File: helioholography.jpg Graphic file (type jpg)
+
+<use helioholography.jpg>
+Underfull \hbox (badness 1226) in paragraph at lines 128--129
+\OT1/txr/m/n/12 por el cient[]^^Pfico H[]ungaro-Brit[]anico \OT1/txr/m/it/12 De
+n-nis Ga-bor \OT1/txr/m/n/12 en
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 128--129
+\OT1/txr/m/n/12 1947 y por el cual gan[]o el pre-mio no-bel de f[]^^Psica
+ []
+
+
+Underfull \hbox (badness 2359) in paragraph at lines 128--129
+\OT1/txr/m/n/12 en 1971 [[]Col-lier et al.[], []1971[]]. En este con-texto,
+ []
+
+
+Underfull \hbox (badness 1424) in paragraph at lines 128--129
+\OT1/txr/m/n/12 una su-per-posici[]on de on-das sono-ras se con-sid-era un
+ []
+
+
+Underfull \hbox (badness 3260) in paragraph at lines 128--129
+\OT1/txr/m/n/12 tos \OT1/txr/m/it/12 holo-gra-mas \OT1/txr/m/n/12 es posi-ble r
+e-alizar una prospecci[]on
+ []
+
+
+Underfull \hbox (badness 4403) in paragraph at lines 128--129
+\OT1/txr/m/n/12 del campo de on-das ac[]usticas que han vi-a-jado a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+
+ []
+
+
+LaTeX Warning: Reference `corona-heating' on page 10 undefined on input line 13
+0.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+
+ []
+
+[10 <./helioholography.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+
+ []
+
+<acustico.png, id=354, 1026.7158pt x 525.6438pt>
+File: acustico.png Graphic file (type png)
+ <use acustico.png>
+Underfull \hbox (badness 2409) in paragraph at lines 148--150
+\OT1/txr/m/n/12 muy gen-erales) toma las os-cila-ciones ob-ser-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--150
+
+ []
+
+[11 <./acustico.png>] <egresion.jpg, id=375, 619.31375pt x 206.7725pt>
+File: egresion.jpg Graphic file (type jpg)
+
+<use egresion.jpg> [12 <./egresion.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+
+ []
+
+[13] <postela.jpg, id=405, 217.81375pt x 312.16624pt>
+File: postela.jpg Graphic file (type jpg)
+ <use postela.jpg>
+<postelb.png, id=406, 754.4988pt x 466.3824pt>
+File: postelb.png Graphic file (type png)
+ <use postelb.png>
+<postelc.png, id=407, 850.17625pt x 647.41875pt>
+File: postelc.png Graphic file (type png)
+ <use postelc.png>
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--241
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+
+ []
+
+[15 <./postela.jpg> <./postelb.png> <./postelc.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+
+ []
+
+
+Overfull \hbox (3.67282pt too wide) in paragraph at lines 250--251
+[]\OT1/txr/bx/n/12 Colisi[]on di-recta de part[]^^Pculas: \OT1/txr/m/n/12 Al-gu
+-nas ob-ser-va-ciones ([[]Donea and Lind-sey[], []2005[], []Zharkova and Zharko
+v[],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
+
+ []
+
+<sunquake.jpg, id=481, 49.3845pt x 46.37325pt>
+File: sunquake.jpg Graphic file (type jpg)
+ <use sunquake.jpg>
+Underfull \hbox (badness 1173) in paragraph at lines 262--263
+\OT1/txr/m/n/12 que in-volu-cran cam-bios sig-ni-fica-tivos en la
+ []
+
+
+Underfull \hbox (badness 2495) in paragraph at lines 262--263
+\OT1/txr/m/n/12 La con-se-cuen-cia m[]as in-medi-ata es el co-
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 262--263
+\OT1/txr/m/n/12 lapso del bu-cle coro-nal ha-cia una con-fig-
+ []
+
+
+Underfull \hbox (badness 1874) in paragraph at lines 262--263
+\OT1/txr/m/n/12 u-raci[]on m[]as es-table (m[]as hor-i-zon-tal). Si
+ []
+
+
+Underfull \hbox (badness 1960) in paragraph at lines 262--263
+\OT1/txr/m/n/12 este pro-ceso se ll-eva a cabo con la su-fi-
+ []
+
+
+Underfull \hbox (badness 1968) in paragraph at lines 262--263
+\OT1/txr/m/n/12 ciente rapi-dez podr[]^^Pa lle-gar a generar tra-
+ []
+
+
+Underfull \hbox (badness 1721) in paragraph at lines 262--263
+\OT1/txr/m/n/12 bajo mec[]anico so-bre la su-per-fi-cie so-lar, y
+ []
+
+
+Underfull \hbox (badness 4765) in paragraph at lines 262--263
+\OT1/txr/m/n/12 por ende, podr[]^^Pa ser un buen can-didato
+ []
+
+
+Underfull \hbox (badness 2027) in paragraph at lines 262--263
+\OT1/txr/m/n/12 posi-ble fue ba-u-ti-zada como el \OT1/txr/m/it/12 Mc-Clymont
+ []
+
+
+Underfull \hbox (badness 2717) in paragraph at lines 262--263
+\OT1/txr/m/n/12 hip[]otesis de que es la in-ter-acci[]on de las
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 262--263
+\OT1/txr/m/n/12 part[]^^Pculas in-ci-dentes el det-o-nante de on-das
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 262--263
+\OT1/txr/m/n/12 s[]^^Psmicas; sin em-bargo, a[]un hoy en d[]^^Pa es
+ []
+
+
+Underfull \hbox (badness 1762) in paragraph at lines 262--263
+\OT1/txr/m/n/12 un tema de []algida dis-cusi[]on en los difer-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+
+ []
+
+[16 <./sunquake.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+
+ []
+
+
+Overfull \hbox (1.26404pt too wide) in paragraph at lines 269--270
+\OT1/txr/m/n/12 Despu[]es de que []Koso-vichev and Zharkova[] [[]1998[]] re-por
+-taran el primer ``\OT1/txr/m/it/12 tsunami\OT1/txr/m/n/12 '' so-lar, mu-chos o
+tros cient[]^^Pficos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--275
+
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
+
+ []
+
+<Diff_gong.png, id=522, 828.696pt x 424.4658pt>
+File: Diff_gong.png Graphic file (type png)
+ <use Diff_gong.png>
+Underfull \hbox (badness 1910) in paragraph at lines 295--296
+\OT1/txr/m/n/12 sen-tar en dos din[]amicas b[]asicas.
+ []
+
+
+Underfull \hbox (badness 3514) in paragraph at lines 295--296
+\OT1/txr/m/n/12 Una traslaci[]on es-toc[]astica de la
+ []
+
+[18 <./Diff_gong.png>]
+Underfull \hbox (badness 1783) in paragraph at lines 301--302
+[]\OT1/txr/m/n/12 Para poder aplicar el m[]etodo
+ []
+
+
+Underfull \hbox (badness 5622) in paragraph at lines 301--302
+\OT1/txr/m/n/12 se ha-cen dos su-posi-ciones adi-
+ []
+
+
+Underfull \hbox (badness 1721) in paragraph at lines 301--302
+\OT1/txr/m/n/12 son isotr[]opicas y que el tama[]no
+ []
+
+<9puntos.png, id=542, 519.8622pt x 443.256pt>
+File: 9puntos.png Graphic file (type png)
+ <use 9puntos.png>
+Overfull \hbox (10.52975pt too wide) in paragraph at lines 316--317
+ [] 
+ []
+
+
+Underfull \hbox (badness 1406) in paragraph at lines 322--323
+[]\OT1/txr/m/n/12 Modernamente las im[]agenes so-lares se reg-is-tran
+ []
+
+[19 <./9puntos.png>] <gauss.png, id=560, 924.0924pt x 477.4638pt>
+File: gauss.png Graphic file (type png)
+
+<use gauss.png>
+Overfull \hbox (6.0pt too wide) in paragraph at lines 350--350
+ [] 
+ []
+
+<gauss_lap_teo.png, id=561, 957.3366pt x 396.0396pt>
+File: gauss_lap_teo.png Graphic file (type png)
+ <use gauss_lap_teo.png>
+Overfull \hbox (6.0pt too wide) in paragraph at lines 353--354
+ [][] 
+ []
+
+
+Underfull \hbox (badness 5105) in paragraph at lines 360--361
+[]\OT1/txr/m/n/12 2009[], []Mart[]^^Pnez-Oliveros et al.[], []2008a[],[]b[],[]c
+[],
+ []
+
+[20 <./gauss.png> <./gauss_lap_teo.png>]
+<Laplacian_1D.png, id=594, 505.89pt x 361.35pt>
+File: Laplacian_1D.png Graphic file (type png)
+ <use Laplacian_1D.png>
+<Laplacian_1D_errores.png, id=595, 505.89pt x 361.35pt>
+File: Laplacian_1D_errores.png Graphic file (type png)
+
+<use Laplacian_1D_errores.png>
+Underfull \hbox (badness 3449) in paragraph at lines 383--383
+\OT1/txr/m/n/12 del c[]alculo num[]erico del
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 383--383
+\OT1/txr/m/n/12 siana de la figura []12[] us-
+ []
+
+[21 <./Laplacian_1D.png> <./Laplacian_1D_errores.png>]
+<aplastada.png, id=615, 1557.6594pt x 373.395pt>
+File: aplastada.png Graphic file (type png)
+ <use aplastada.png>
+Underfull \hbox (badness 10000) in paragraph at lines 399--400
+
+ []
+
+<lapt_aplastada.png, id=619, 812.7966pt x 672.111pt>
+File: lapt_aplastada.png Graphic file (type png)
+ <use lapt_aplastada.png>
+<lap9j_aplastada.png, id=620, 812.7966pt x 672.111pt>
+File: lap9j_aplastada.png Graphic file (type png)
+
+<use lap9j_aplastada.png> <Lap_mod_Teo.png, id=621, 505.89pt x 361.35pt>
+File: Lap_mod_Teo.png Graphic file (type png)
+
+<use Lap_mod_Teo.png> [22 <./aplastada.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 429--430
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 431--432
+
+ []
+
+[23 <./lapt_aplastada.png> <./lap9j_aplastada.png> <./Lap_mod_Teo.png>]
+<gausss.png, id=656, 1996.0974pt x 1667.9916pt>
+File: gausss.png Graphic file (type png)
+ <use gausss.png>
+Underfull \hbox (badness 2126) in paragraph at lines 440--440
+\OT1/txr/m/n/12 gaus-siana bidi-men-sional que
+ []
+
+
+Underfull \hbox (badness 1655) in paragraph at lines 440--440
+\OT1/txr/m/n/12 de cada una de las se[]nales
+ []
+
+<lap_sq_45.png, id=657, 1520.5608pt x 619.113pt>
+File: lap_sq_45.png Graphic file (type png)
+ <use lap_sq_45.png>
+<lap_sq_315.png, id=660, 817.6146pt x 314.1336pt>
+File: lap_sq_315.png Graphic file (type png)
+ <use lap_sq_315.png> [24 <./gausss.png>] [25 <./lap_sq_45.png> <./lap_sq_315.p
+ng>]
+Underfull \hbox (badness 10000) in paragraph at lines 465--466
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 467--468
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 469--470
+
+ []
+
+<carrington1.png, id=682, 951.555pt x 477.4638pt>
+File: carrington1.png Graphic file (type png)
+ <use carrington1.png>
+[26] [27 <./carrington1.png>] <rotacion.png, id=699, 448.5558pt x 388.3308pt>
+File: rotacion.png Graphic file (type png)
+
+<use rotacion.png>
+Underfull \hbox (badness 10000) in paragraph at lines 547--548
+
+ []
+
+[28 <./rotacion.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 579--580
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 581--582
+
+ []
+
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 583--584
+
+ []
+
+
+LaTeX Warning: Hyper reference `http://hesperia.gsfc.nasa.gov/rhessi2/home/data
+-access/rhessi-data/flare-list/' on page 30 undefined on input line 585.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 585--586
+
+ []
+
+
+LaTeX Warning: Hyper reference `http://gong2.nso.edu/archive/patch.pl?menutype=
+s' on page 30 undefined on input line 587.
+
+
+Overfull \hbox (17.79997pt too wide) in paragraph at lines 587--588
+[]\OT1/txr/m/n/12 1[]. Esto se hizo a trav[]es del servi-dor ofi-cial de la red
+ GONG++, []http://gong2.nso.edu/archive/patch.pl?menutype=s[].
+ []
+
+[30]
+
+LaTeX Warning: Float too large for page by 173.21591pt on input line 634.
+
+) (./fokkerplanck.tex [31] [32]
+<wei-liu.png, id=784, 1158.3275pt x 1354.05875pt>
+File: wei-liu.png Graphic file (type png)
+ <use wei-liu.png>
+Underfull \hbox (badness 1412) in paragraph at lines 18--19
+\OT1/txr/m/n/12 eraci[]on de part[]^^Pculas: (1) \OT1/txr/bx/n/12 Acel-eraci[]o
+n di-recta por
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+[33
+
+ <./wei-liu.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+[35]
+
+LaTeX Warning: Reference `eq:gammag' on page 36 undefined on input line 85.
+
+<aleatorio.jpg, id=862, 699.61375pt x 210.7875pt>
+File: aleatorio.jpg Graphic file (type jpg)
+ <use aleatorio.jpg>
+Underfull \hbox (badness 2913) in paragraph at lines 106--107
+[]\OT1/txr/m/n/12 Comencemos con-siderando un en-sam-ble de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+
+ []
+
+[36 <./aleatorio.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+
+ []
+
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
+
+ []
+
+LaTeX Font Info:    Try loading font information for U+dsrom on input line 181.
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/doublestroke/Udsrom.fd
+File: Udsrom.fd 1995/08/01 v0.1 Double stroke roman font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+
+ []
+
+[38]
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+
+ []
+
+[39]
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
+
+ []
+
+[40]
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+
+ []
+
+[41]
+Underfull \hbox (badness 10000) in paragraph at lines 331--332
+
+ []
+
+<pitchangle.png, id=957, 675.52374pt x 561.09625pt>
+File: pitchangle.png Graphic file (type png)
+ <use pitchangle.png>
+Overfull \hbox (1.32036pt too wide) in paragraph at lines 341--342
+[][]\OT1/txr/m/n/12 B[]asicamente, du-rante las []ultimas tres d[]ecadas
+ []
+
+
+Underfull \hbox (badness 1565) in paragraph at lines 341--342
+\OT1/txr/m/n/12 strucci[]on de una de-scripci[]on te[]orica con-sis-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--342
+
+ []
+
+
+Underfull \hbox (badness 1199) in paragraph at lines 343--344
+\OT1/txr/m/n/12 la dis-tribuci[]on electr[]onica evolu-cione con el
+ []
+
+
+Underfull \hbox (badness 1173) in paragraph at lines 343--344
+\OT1/txr/m/n/12 ciones tipo \OT1/txr/m/it/12 onda-part^^S^^Pcula\OT1/txr/m/n/12
+ , la ra-diaci[]on sin-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 345--346
+
+ []
+
+[42 <./pitchangle.png (PNG copy)>] [43]
+Underfull \hbox (badness 10000) in paragraph at lines 392--393
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--395
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 403--404
+
+ []
+
+[44] <coulomb.png, id=1045, 941.4372pt x 500.5902pt>
+File: coulomb.png Graphic file (type png)
+ <use coulomb.png>
+Underfull \hbox (badness 10000) in paragraph at lines 414--415
+
+ []
+
+[45 <./coulomb.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 440--441
+
+ []
+
+
+Overfull \hbox (6.32486pt too wide) in paragraph at lines 442--443
+[]\OT1/txr/m/n/12 Cada nueva col-isi[]on provoca un peque[]no cam-bio en la can
+-ti-dad de mo-men-tum per-pen-dic-u-lar de las part[]^^Pculas
+ []
+
+[46]
+LaTeX Font Info:    Try loading font information for TS1+txr on input line 504.
+
+ (/usr/local/texlive/2009/texmf-dist/tex/latex/txfonts/ts1txr.fd
+File: ts1txr.fd 2000/12/15 v3.1
+) [47]
+<giro1.png, id=1105, 342.078pt x 268.8444pt>
+File: giro1.png Graphic file (type png)
+ <use giro1.png>
+<giro2.png, id=1106, 342.078pt x 268.8444pt>
+File: giro2.png Graphic file (type png)
+ <use giro2.png>
+Overfull \hbox (2.70087pt too wide) in paragraph at lines 521--522
+[]\OT1/txr/m/n/12 Para analizar en de-talle la emisi[]on elec-tro-magn[]etica p
+ro-ducto de este movimiento he-li-coidal de una part[]^^Pcula
+ []
+
+[48 <./giro1.png> <./giro2.png>]
+
+LaTeX Warning: Reference `fig:bucle' on page 49 undefined on input line 558.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 558--559
+
+ []
+
+[49] [50]
+Underfull \hbox (badness 10000) in paragraph at lines 616--617
+
+ []
+
+[51] [52]
+Underfull \hbox (badness 10000) in paragraph at lines 669--670
+
+ []
+
+[53]
+Underfull \hbox (badness 10000) in paragraph at lines 683--684
+
+ []
+
+[54]
+Overfull \hbox (3.87082pt too wide) in paragraph at lines 744--744
+[] 
+ []
+
+
+Overfull \hbox (1.51967pt too wide) in paragraph at lines 754--754
+[] 
+ []
+
+[55]
+Overfull \hbox (21.70004pt too wide) in paragraph at lines 803--804
+\OT1/txr/m/n/12 la cual puede ser solu-cionada num[]ericamente us-ando el m[]et
+odo de \OT1/txr/m/it/12 Crank-Nicholson \OT1/txr/m/n/12 [[]Smith[], []1985[]]. 
+Expl[]^^Pcitamente, 
+ []
+
+LaTeX Font Info:    Try loading font information for OT1+txtt on input line 816
+.
+(/usr/local/texlive/2009/texmf-dist/tex/latex/txfonts/ot1txtt.fd
+File: ot1txtt.fd 2000/12/15 v3.1
+)
+Underfull \hbox (badness 10000) in paragraph at lines 816--817
+
+ []
+
+[56]
+Underfull \hbox (badness 10000) in paragraph at lines 818--819
+
+ []
+
+<delta.png, id=1254, 505.89pt x 361.35pt>
+File: delta.png Graphic file (type png)
+ <use delta.png> [57]
+Underfull \hbox (badness 10000) in paragraph at lines 866--867
+
+ []
+
+[58 <./delta.png>] <input.png, id=1290, 505.89pt x 660.066pt>
+File: input.png Graphic file (type png)
+ <use input.png>
+Underfull \hbox (badness 1231) in paragraph at lines 876--877
+\OT1/txr/m/n/12 num[]ericamente la ecuaci[]on de \OT1/txr/m/it/12 Fokker-Planck
+ \OT1/txr/m/n/12 en
+ []
+
+
+Underfull \hbox (badness 2189) in paragraph at lines 876--877
+\OT1/txr/m/n/12 de-pende, ahora es el turno de dis-cu-tir la dis-
+ []
+
+
+Underfull \hbox (badness 3536) in paragraph at lines 876--877
+\OT1/txr/m/n/12 tribuci[]on ini-cial de la den-si-dad electr[]onica en
+ []
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 876--877
+\OT1/txr/m/n/12 te-mente del coseno de este, $\OML/txmi/m/it/12 ^^V \OT1/txr/m/
+n/12 = [] \OML/txmi/m/it/12 $\OT1/txr/m/n/12 . Una
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 876--877
+\OT1/txr/m/n/12 vez el \OT1/txr/m/it/12 jet \OT1/txr/m/n/12 de part[]^^Pculas e
+s in-yec-tado en el bu-
+ []
+
+
+Underfull \hbox (badness 1748) in paragraph at lines 876--877
+\OT1/txr/m/n/12 cle so-lar por la cima de este, la di-recci[]on en
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 876--877
+\OT1/txr/m/n/12 la que in-ci-den cada una de el-las tiene un sen-
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 876--877
+\OT1/txr/m/n/12 tido pref-er-en-cial que re-sulta ser per-pen-dic-u-lar a
+ []
+
+
+Underfull \hbox (badness 1412) in paragraph at lines 876--877
+\OT1/txr/m/n/12 la dis-tribuci[]on in-ci-dente se debe poder mod-e-lar
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 876--877
+\OT1/txr/m/n/12 siendo $\OML/txmi/m/it/12 A[]$ \OT1/txr/m/n/12 una con-stante d
+e nor-mal-izaci[]on o de
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 876--877
+\OT1/txr/m/n/12 ba-jos se han de-sar-rol-lado tratando de de-scribir
+ []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 876--877
+\OT1/txr/m/n/12 la mejor funci[]on de dis-tribuci[]on en funci[]on del
+ []
+
+
+Underfull \hbox (badness 1472) in paragraph at lines 876--877
+[]\OT1/txr/m/n/12 angulo de in-cli-naci[]on que mejor se aco-mode a
+ []
+
+
+Underfull \hbox (badness 1565) in paragraph at lines 876--877
+\OT1/txr/m/n/12 Sigu-iendo a []Lee and Gary[] [[]2000[]] nosotros us-
+ []
+
+
+Underfull \hbox (badness 1888) in paragraph at lines 876--877
+\OT1/txr/m/n/12 amos para $\OML/txmi/m/it/12 t \OT1/txr/m/n/12 = 0$, los val-or
+es ini-ciales $\OML/txmi/m/it/12 ^^V \OT1/txr/m/n/12 =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 876--877
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 884--885
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 886--887
+
+ []
+
+[59 <./input.png>] <image_ft.png, id=1306, 505.89pt x 361.35pt>
+File: image_ft.png Graphic file (type png)
+
+<use image_ft.png>
+Underfull \hbox (badness 10000) in paragraph at lines 913--914
+
+ []
+
+[60 <./image_ft.png>])
+
+Package babelbib Warning: Command \selectbiblanguage used without package
+(babelbib)                option fixlanguage. Ignored on input line 29.
+
+(./thesis.bbl [61] [62
+
+] [63] [64] [65] [66] [67] [68])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 32.
+ [69]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 32.
+ (./thesis.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 32.
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: D17B77942EE17BBF21DF6010D06F6080;2433.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 70 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 11089 strings out of 493773
+ 163185 string characters out of 3145346
+ 274122 words of memory out of 3000000
+ 13617 multiletter control sequences out of 15000+200000
+ 77536 words of font info for 177 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 46i,17n,45p,5369b,915s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{??} has been referenced but does no
+t exist, replaced by a fixed one
+
+{/usr/local/texlive/2009/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
+live/2009/texmf-dist/fonts/type1/public/doublestroke/dsrom12.pfb></usr/local/te
+xlive/2009/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb></usr/local/texlive/
+2009/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/local/texlive/2009/te
+xmf-dist/fonts/type1/public/txfonts/rtxbmi.pfb></usr/local/texlive/2009/texmf-d
+ist/fonts/type1/public/txfonts/rtxi.pfb></usr/local/texlive/2009/texmf-dist/fon
+ts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2009/texmf-dist/fonts/typ
+e1/public/txfonts/rtxr.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/publ
+ic/txfonts/txex.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/txfo
+nts/txexa.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/txfonts/tx
+sy.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/txfonts/txsya.pfb
+></usr/local/texlive/2009/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/
+local/texlive/2009/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/t
+exlive/2009/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/200
+9/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2009/texmf-di
+st/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2009/texmf-dist/fonts/t
+ype1/urw/times/utmri8a.pfb>
+Output written on thesis.pdf (70 pages, 7911856 bytes).
+PDF statistics:
+ 1500 PDF objects out of 1728 (max. 8388607)
+ 410 named destinations out of 1000 (max. 500000)
+ 404 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99c (TeX Live 2009)
+The top-level auxiliary file: thesis.aux
+The style file: apalike.bst
+Database file #1: MyLibrary.bib
+Warning--empty publisher in born1975
+Warning--empty publisher in collier1971
+Warning--can't use both author and editor fields in gubbins1990
+Warning--empty publisher in gubbins1990
+Warning--can't use both author and editor fields in landau-mecanica
+Warning--empty publisher in landau-mecanica
+Warning--can't use both author and editor fields in liu2008
+Warning--can't use both author and editor fields in longair1992
+Warning--empty publisher in longair1992
+Warning--can't use both author and editor fields in pearson1977
+Warning--can't use both author and editor fields in risken
+Warning--empty publisher in risken
+Warning--empty publisher in snyder1926
+Warning--can't use both author and editor fields in somov1
+Warning--empty publisher in somov1
+Warning--empty publisher in Tandberg-Hanssen1988
+You've used 117 entries,
+            1935 wiz_defined-function locations,
+            1144 strings with 23715 characters,
+and the built_in function-call counts, 49307 in all, are:
+= -- 4668
+> -- 2202
+< -- 103
++ -- 755
+- -- 746
+* -- 4274
+:= -- 8577
+add.period$ -- 346
+call.type$ -- 117
+change.case$ -- 935
+chr.to.int$ -- 112
+cite$ -- 133
+duplicate$ -- 1837
+empty$ -- 3392
+format.name$ -- 931
+if$ -- 9739
+int.to.chr$ -- 6
+int.to.str$ -- 0
+missing$ -- 130
+newline$ -- 579
+num.names$ -- 371
+pop$ -- 792
+preamble$ -- 1
+purify$ -- 949
+quote$ -- 0
+skip$ -- 1380
+stack$ -- 0
+substring$ -- 3348
+swap$ -- 286
+text.length$ -- 32
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 672
+warning$ -- 16
+while$ -- 358
+width$ -- 0
+write$ -- 1520
+(There were 16 warnings)

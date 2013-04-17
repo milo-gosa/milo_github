@@ -1,0 +1,26 @@
+\BOOKMARK [0][-]{chapter*.2}{Heliosismolog\355a}{}% 1
+\BOOKMARK [1][-]{section*.3}{Heliosismolog\355a local}{chapter*.2}% 2
+\BOOKMARK [2][-]{section*.5}{Diagrama de anillos}{section*.3}% 3
+\BOOKMARK [2][-]{section*.7}{Diagrama de Tiempo-Distancia}{section*.3}% 4
+\BOOKMARK [1][-]{section*.10}{Holograf\355a heliosismol\363gica}{chapter*.2}% 5
+\BOOKMARK [2][-]{section*.14}{Proyecci\363n Postel}{section*.10}% 6
+\BOOKMARK [1][-]{section*.16}{Sismicidad asociada a las fulguraciones solares}{chapter*.2}% 7
+\BOOKMARK [1][-]{section*.18}{M\351todo de limpieza de observaciones hechas desde tierra}{chapter*.2}% 8
+\BOOKMARK [2][-]{section*.19}{Algoritmo param\351trico de correci\363n por turbulencia \(PASCAL\)}{section*.18}% 9
+\BOOKMARK [2][-]{section*.21}{Algoritmo num\351rico para el c\341lculo del laplaciano de una funci\363n bidimensional}{section*.18}% 10
+\BOOKMARK [2][-]{section*.30}{Proyecciones heliogr\341fica y postel aplicadas a un fotograma solar}{section*.18}% 11
+\BOOKMARK [1][-]{section*.33}{Implementaci\363n del m\351todo PASCAL sobre una muestra de fulguraciones energ\351ticas}{chapter*.2}% 12
+\BOOKMARK [0][-]{chapter*.35}{Aceleraci\363n estoc\341stica de part\355culas en una fulguraci\363n solar}{}% 13
+\BOOKMARK [1][-]{section*.37}{Ecuaci\363n de Fokker-Planck}{chapter*.35}% 14
+\BOOKMARK [2][-]{section*.38}{Un primer acercamiento: la ecuaci\363n de Langevin}{section*.37}% 15
+\BOOKMARK [2][-]{section*.39}{Deducci\363n de la ecuaci\363n de Fokker-Planck unidimensional}{section*.37}% 16
+\BOOKMARK [2][-]{section*.41}{Ecuaci\363n de Fokker-Planck Multi-dimensional}{section*.37}% 17
+\BOOKMARK [2][-]{section*.42}{Din\341mica de un paquete de electrones que se inyecta en un plasma magnetizado}{section*.37}% 18
+\BOOKMARK [1][-]{section*.46}{Procesos relevantes involucrados en las colisiones en plasmas}{chapter*.35}% 19
+\BOOKMARK [2][-]{section*.47}{Colisi\363n Coulombiana}{section*.46}% 20
+\BOOKMARK [2][-]{section*.49}{Radiaci\363n giro-sincrotr\363n}{section*.46}% 21
+\BOOKMARK [2][-]{section*.51}{Reflexi\363n magn\351tica}{section*.46}% 22
+\BOOKMARK [1][-]{section*.52}{Simulaci\363n}{chapter*.35}% 23
+\BOOKMARK [2][-]{section*.53}{Soluci\363n num\351rica de la Ecuaci\363n de Fokker-Planck dependiente del tiempo}{section*.52}% 24
+\BOOKMARK [2][-]{section*.58}{C\363digo num\351rico}{section*.52}% 25
+\BOOKMARK [2][-]{section*.63}{Par\341metros de entrada del conjunto de programas}{section*.52}% 26
